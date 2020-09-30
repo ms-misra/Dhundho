@@ -9,10 +9,15 @@ There are two types of users for our application , a normal user can post report
 Functional requirements:
   Essential 
       Signup and login
+      
       Finding missing people 
+      
       Sharing information 
+      
       Anonymity maintained 
+      
       Location updation
+      
       Uploading pictures
       
       
